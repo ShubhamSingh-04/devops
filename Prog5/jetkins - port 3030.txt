@@ -1,0 +1,4 @@
+jenkins - port 3030
+pass: a5ef8a57b28b48a089faf30e3a03dc02
+
+MyJetkinsPassword
